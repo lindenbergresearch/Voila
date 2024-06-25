@@ -1,4 +1,4 @@
-package org.jetbrains.plugins.template
+package com.github.lindenbergresearch.voila
 
 import com.intellij.DynamicBundle
 import org.jetbrains.annotations.NonNls
